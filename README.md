@@ -38,3 +38,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+![GitHub Snake Light](https://github.com/<username>/<username>/blob/output/github-snake.svg)
+![GitHub Snake Dark](https://github.com/<username>/<username>/blob/output/github-snake-dark.svg)
