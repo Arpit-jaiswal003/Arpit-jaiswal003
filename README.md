@@ -24,8 +24,7 @@
 
 
 
-# 📊 GitHub Stats & Trophies
----
+## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/Arpit-jaiswal003">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arpit-jaiswal003&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="Arpit-jaiswal003's GitHub Stats" />
