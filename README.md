@@ -9,14 +9,14 @@
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 
-## 📌 About Me
+# 📌 About Me
 ---
 - 🤗 Hello I'am Arpit a Btech Student
 - 🛠️ Learning and Developing New Skills
 - 👀 Seeking for new path
   
 
-## 🧠 My Focus Areas
+# 🧠 My Focus Areas
 ---
 - Game Development
 - AI/ML
@@ -24,7 +24,7 @@
 
 
 
-## 📊 GitHub Stats & Trophies
+# 📊 GitHub Stats & Trophies
 ---
 <p align="center">
   <a href="https://github.com/Arpit-jaiswal003">
@@ -41,7 +41,7 @@
 
 
 
-## 🛠️ Languages & Tools
+# 🛠️ Languages & Tools
 ---
 
 <h3 align="center">Programming Languages</h3>
@@ -64,7 +64,7 @@
 </p>
 
 
-## 🔗 Connect with Me
+# 🔗 Connect with Me
 ---
 <p align="center">
   <a href="www.linkedin.com/in/arpit-jaiswal-60072b385">
