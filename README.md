@@ -8,23 +8,24 @@
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
----
 
 ## 📌 About Me
+---
 - 🤗 Hello I'am Arpit a Btech Student
 - 🛠️ Learning and Developing New Skills
 - 👀 Seeking for new path
   
----
 
 ## 🧠 My Focus Areas
+---
 - Game Development
 - AI/ML
 - Data Structure
 
----
+
 
 ## 📊 GitHub Stats & Trophies
+---
 <p align="center">
   <a href="https://github.com/Arpit-jaiswal003">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Arpit-jaiswal003&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="Arpit-jaiswal003's GitHub Stats" />
@@ -38,9 +39,10 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Arpit-jaiswal003&theme=gruvbox&radius=10" alt="Arpit-jaiswal003's Activity Graph" />
 </p>
 
----
+
 
 ## 🛠️ Languages & Tools
+---
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -61,18 +63,19 @@
   </a>
 </p>
 
----
 
 ## 🔗 Connect with Me
+---
 <p align="center">
   <a href="www.linkedin.com/in/arpit-jaiswal-60072b385">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>
 </p>
 
----
+
 
 # 🐍 Contribution Snake
+---
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushmanpathak9034/ayushmanpathak9034/main/github-contribution-grid-snake.svg" />
