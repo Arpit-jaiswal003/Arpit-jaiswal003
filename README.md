@@ -13,7 +13,7 @@
 ---
 - 🤗 Hello I'am Arpit a Btech Student
 - 🛠️ Learning and Developing New Skills
-- 👀 Seeking for new path
+- 👀 Seeking for new path...
   
 
 # 🧠 My Focus Areas
